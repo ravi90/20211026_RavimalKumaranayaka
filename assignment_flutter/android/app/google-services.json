@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961943572904",
+    "project_id": "fir-todo-app-521d5",
+    "storage_bucket": "fir-todo-app-521d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961943572904:android:8318a3bb1bcd86f0c3cd9d",
+        "android_client_info": {
+          "package_name": "com.example.assignment_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961943572904-skhna5kf710ibvg1qdav4s04qr8cfr6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDABpnwWZxTvbyGEFGTaNliSihIZeYWGM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961943572904-skhna5kf710ibvg1qdav4s04qr8cfr6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
